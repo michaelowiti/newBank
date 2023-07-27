@@ -1,6 +1,6 @@
 import { useState,useEffect } from "react";
 import './App.css';
-import Transaction from './Trasactions';
+import Transaction from './Transaction';
 import AddForm from './AddForm';
 import SearchBar from './SearchBar';
 
